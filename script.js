@@ -15,7 +15,7 @@ document.write("Reverse of the no. is "+s)
 document.write("<br>")
 
 if(s==n)
-document.write("Number is a palindrome")
+document.write("True (Number is a palindrome)")
 
 else
-document.write("Number is not a palindrome")
+document.write("False (Number is not a palindrome)")
